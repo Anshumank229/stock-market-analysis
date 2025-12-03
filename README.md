@@ -4,3 +4,6 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
 The dataset contains daily market information such as Open, High, Low, Close, Volume, and other financial indicators.
 
 The goal is to understand market trends, analyze price movement, calculate returns, and visualize key indicators like moving averages
+📥 How the Data Was Collected
+
+The data was manually downloaded from the official NSE India website.
